@@ -1,0 +1,25 @@
+column_number,harmonized_column,source_column_2025,source_column_2026,description,data_type
+1,year,Derived,Derived,Survey year.,int64
+2,id,ResponseId,ResponseId,Year-prefixed public response identifier.,str
+3,is_developer,MainBranch,CodeMain,1 if the respondent selected the year-specific professional developer option.,int8
+4,is_employed,Employment,Employment,1 if employment status is Employed.,int8
+5,country,Country,Country,"Country, with the UK label standardized.",str
+6,industry,Industry,Industry,Normalized company-industry category from the survey.,str
+7,salary_usd,ConvertedCompYearly,ConvertedCompYearly,Annual compensation converted to USD by the survey; sourced from ConvertedCompYearly.,float64
+8,age,Age,Age,Reported age band.,str
+9,work_exp,WorkExp,WorkExp,Reported years of professional work experience.,float64
+10,years_code,YearsCode,YearsCode,Reported years coding.,float64
+11,tool_count_raw,ToolCountWork,ToolCount,Raw survey count of tools/technologies used.,float64
+12,role_group,DevType,Role,Role mapped to a shared role group.,str
+13,education,EdLevel,Education,Education label grouped into shared categories.,str
+14,org_size,OrgSize,OrgSize,Reported organization size.,str
+15,work_setting,RemoteWork,WorkSetting,Reported work setting.,str
+16,lang_list,LanguageHaveWorkedWith,LanguagesHaveWorkedWith,Normalized semicolon-delimited programming language list.,str
+17,db_list,DatabaseHaveWorkedWith,DatabasesHaveWorkedWith,Normalized semicolon-delimited database list.,str
+18,web_list,WebframeHaveWorkedWith,WebFrameworkHaveWorkedWith,Normalized semicolon-delimited web framework list.,str
+19,ide_list,DevEnvsHaveWorkedWith,DevIDEHaveWorkedWith,Normalized semicolon-delimited IDE list.,str
+20,cloud_list,PlatformHaveWorkedWith,CloudPlatHaveWorkedWith,Normalized semicolon-delimited cloud/platform list.,str
+21,in_model,Derived eligibility rules,Derived eligibility rules,1 if the row meets the shared salary-model eligibility criteria.,int8
+22,has_salary,ConvertedCompYearly,ConvertedCompYearly,1 if ConvertedCompYearly is present.,int8
+23,work_exp_blank,WorkExp,WorkExp,1 if reported professional work experience is missing.,int8
+24,tool_count,ToolCountWork,ToolCount,"Tool count, positive values only and capped at 50.",float64

@@ -1,0 +1,31 @@
+year,industry,experience_band,respondents,median_salary
+2025,Government,0-4 years,28,91150.0
+2025,Government,5-8 years,49,116000.0
+2025,Government,9-12 years,35,145000.0
+2025,Government,13-16 years,30,135500.0
+2025,Government,17+ years,104,150000.0
+2025,Healthcare,0-4 years,33,100000.0
+2025,Healthcare,5-8 years,49,123000.0
+2025,Healthcare,9-12 years,53,155800.0
+2025,Healthcare,13-16 years,33,175000.0
+2025,Healthcare,17+ years,120,170000.0
+2025,Software development,0-4 years,179,96300.0
+2025,Software development,5-8 years,258,145000.0
+2025,Software development,9-12 years,288,170000.0
+2025,Software development,13-16 years,201,180000.0
+2025,Software development,17+ years,526,190000.0
+2026,Government,0-4 years,25,90000.0
+2026,Government,5-8 years,19,125000.0
+2026,Government,9-12 years,27,140000.0
+2026,Government,13-16 years,16,152000.0
+2026,Government,17+ years,78,147500.0
+2026,Healthcare,0-4 years,14,102000.0
+2026,Healthcare,5-8 years,27,128000.0
+2026,Healthcare,9-12 years,26,177500.0
+2026,Healthcare,13-16 years,33,168000.0
+2026,Healthcare,17+ years,73,175000.0
+2026,Software development,0-4 years,47,120000.0
+2026,Software development,5-8 years,41,180000.0
+2026,Software development,9-12 years,61,190000.0
+2026,Software development,13-16 years,79,198000.0
+2026,Software development,17+ years,155,200000.0
