@@ -1,0 +1,65 @@
+model,actual_band,predicted_band,respondents,row_normalized_share
+Random forest regression → band,Band 1 (lowest),Band 1 (lowest),1320,0.7028753993610224
+Random forest regression → band,Band 1 (lowest),Band 2,499,0.2657082002129925
+Random forest regression → band,Band 1 (lowest),Band 3,44,0.023429179978700747
+Random forest regression → band,Band 1 (lowest),Band 4 (highest),15,0.007987220447284345
+Random forest regression → band,Band 2,Band 1 (lowest),503,0.21803207628955354
+Random forest regression → band,Band 2,Band 2,1284,0.5565669700910273
+Random forest regression → band,Band 2,Band 3,461,0.199826614651062
+Random forest regression → band,Band 2,Band 4 (highest),59,0.025574338968357174
+Random forest regression → band,Band 3,Band 1 (lowest),103,0.04561558901682905
+Random forest regression → band,Band 3,Band 2,710,0.31443755535872453
+Random forest regression → band,Band 3,Band 3,1056,0.46767050487156775
+Random forest regression → band,Band 3,Band 4 (highest),389,0.17227635075287864
+Random forest regression → band,Band 4 (highest),Band 1 (lowest),24,0.010252029047415635
+Random forest regression → band,Band 4 (highest),Band 2,187,0.07988039299444681
+Random forest regression → band,Band 4 (highest),Band 3,549,0.23451516445963264
+Random forest regression → band,Band 4 (highest),Band 4 (highest),1581,0.6753524134985049
+Linear regression → band,Band 1 (lowest),Band 1 (lowest),1417,0.7545260915867945
+Linear regression → band,Band 1 (lowest),Band 2,396,0.2108626198083067
+Linear regression → band,Band 1 (lowest),Band 3,54,0.02875399361022364
+Linear regression → band,Band 1 (lowest),Band 4 (highest),11,0.005857294994675187
+Linear regression → band,Band 2,Band 1 (lowest),475,0.2058951018638925
+Linear regression → band,Band 2,Band 2,1261,0.5465973125270914
+Linear regression → band,Band 2,Band 3,504,0.21846553966189858
+Linear regression → band,Band 2,Band 4 (highest),67,0.02904204594711747
+Linear regression → band,Band 3,Band 1 (lowest),109,0.04827280779450841
+Linear regression → band,Band 3,Band 2,589,0.2608503100088574
+Linear regression → band,Band 3,Band 3,1128,0.4995571302037201
+Linear regression → band,Band 3,Band 4 (highest),432,0.1913197519929141
+Linear regression → band,Band 4 (highest),Band 1 (lowest),37,0.015805211448099103
+Linear regression → band,Band 4 (highest),Band 2,131,0.05595899188381034
+Linear regression → band,Band 4 (highest),Band 3,565,0.24134985049124305
+Linear regression → band,Band 4 (highest),Band 4 (highest),1608,0.6868859461768475
+Random forest classifier,Band 1 (lowest),Band 1 (lowest),1326,0.7060702875399361
+Random forest classifier,Band 1 (lowest),Band 2,458,0.24387646432374868
+Random forest classifier,Band 1 (lowest),Band 3,68,0.0362087326943557
+Random forest classifier,Band 1 (lowest),Band 4 (highest),26,0.013844515441959531
+Random forest classifier,Band 2,Band 1 (lowest),410,0.1777199826614651
+Random forest classifier,Band 2,Band 2,1244,0.5392284351972259
+Random forest classifier,Band 2,Band 3,564,0.2444733420026008
+Random forest classifier,Band 2,Band 4 (highest),89,0.03857824013870828
+Random forest classifier,Band 3,Band 1 (lowest),100,0.04428697962798937
+Random forest classifier,Band 3,Band 2,482,0.21346324180690876
+Random forest classifier,Band 3,Band 3,1223,0.54162976085031
+Random forest classifier,Band 3,Band 4 (highest),453,0.20062001771479185
+Random forest classifier,Band 4 (highest),Band 1 (lowest),37,0.015805211448099103
+Random forest classifier,Band 4 (highest),Band 2,137,0.05852199914566424
+Random forest classifier,Band 4 (highest),Band 3,500,0.21358393848782573
+Random forest classifier,Band 4 (highest),Band 4 (highest),1667,0.7120888509184109
+Logistic regression classifier,Band 1 (lowest),Band 1 (lowest),1375,0.7321618743343983
+Logistic regression classifier,Band 1 (lowest),Band 2,388,0.2066027689030884
+Logistic regression classifier,Band 1 (lowest),Band 3,77,0.041001064962726305
+Logistic regression classifier,Band 1 (lowest),Band 4 (highest),38,0.02023429179978701
+Logistic regression classifier,Band 2,Band 1 (lowest),418,0.1811876896402254
+Logistic regression classifier,Band 2,Band 2,1166,0.505418292154313
+Logistic regression classifier,Band 2,Band 3,617,0.26744690073688776
+Logistic regression classifier,Band 2,Band 4 (highest),106,0.045947117468573904
+Logistic regression classifier,Band 3,Band 1 (lowest),90,0.03985828166519043
+Logistic regression classifier,Band 3,Band 2,435,0.19264836138175376
+Logistic regression classifier,Band 3,Band 3,1210,0.5358724534986714
+Logistic regression classifier,Band 3,Band 4 (highest),523,0.2316209034543844
+Logistic regression classifier,Band 4 (highest),Band 1 (lowest),29,0.012387868432293891
+Logistic regression classifier,Band 4 (highest),Band 2,100,0.042716787697565144
+Logistic regression classifier,Band 4 (highest),Band 3,480,0.20504058094831268
+Logistic regression classifier,Band 4 (highest),Band 4 (highest),1732,0.7398547629218283
